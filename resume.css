@@ -1,0 +1,40 @@
+#nav {
+    border-style: none;
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color:  rgba(1,1,1,.50);
+}
+
+#nav li a:hover{
+    background-color:  rgba(0,0,0,.50);
+}
+
+#nav li {
+    float: left;
+}
+
+#nav li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 16px 18px;
+    text-align: center;
+}
+
+body {
+    font-family: 'Comfortaa', cursive;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    color: white;
+}
+
+#resume {
+    background-image: url(resum.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
